@@ -1,0 +1,123 @@
+# AI Contribution Log
+
+## Project
+
+**Tic-Tac-Toe Game-Playing AI (Minimax)**
+
+- **Course:** 02AML204 – Introduction to Artificial Intelligence
+- **Student:** Shreyas More
+- **PRN:** 25UAM071
+- **Project Type:** Game-Playing AI using Minimax
+- **Architecture:** Full C4 Model
+
+## 1. AI Tool Used
+
+The following AI tool was used during the development and documentation of the project:
+
+- **Claude (Anthropic)**
+
+## 2. Purpose of AI Assistance
+
+AI assistance was used as a development and documentation aid. The AI did not replace the student's project decisions or review process.
+
+The main areas where AI assistance was used were:
+
+1. Code generation and refinement
+2. Minimax implementation support
+3. C4 architecture diagram creation
+4. Documentation formatting
+5. Organization and presentation of project information
+
+## 3. Detailed AI Contributions
+
+### 3.1 Code Generation and Refinement
+
+AI assistance was used to help write and refine the Tic-Tac-Toe implementation, including the logic for:
+
+- Displaying the board
+- Checking winning conditions
+- Detecting draws
+- Generating possible moves
+- Implementing recursive Minimax search
+- Selecting the AI's best move
+- Managing the main game loop
+
+The generated/refined code was reviewed by the student for correctness and consistency with the project requirements.
+
+### 3.2 Minimax Algorithm Support
+
+AI assistance helped with the structure and refinement of the Minimax decision-making logic.
+
+The AI engine evaluates terminal states using:
+
+- `+1` for an AI win
+- `0` for a draw
+- `-1` for a player win
+
+The AI maximizes its own score while assuming that the opponent minimizes the score.
+
+### 3.3 C4 Architecture Diagrams
+
+AI assistance was used to create and organize the following C4 architecture views:
+
+- Context Diagram
+- Container Diagram
+- Component Diagram
+- Code-Level Overview
+
+The architecture was reviewed by the student to ensure that the diagrams correctly represented the implemented system.
+
+### 3.4 Document Formatting
+
+AI assistance was also used for organizing and formatting the project documentation so that the system architecture, implementation functions, design decisions, and conclusion were presented clearly.
+
+## 4. Work Completed by the Student
+
+The following important decisions and work were completed by the student:
+
+- Selected Tic-Tac-Toe as the project problem.
+- Decided to use Minimax as the AI algorithm.
+- Defined the major system containers:
+  - Input Module
+  - Game Engine
+  - Board State
+  - AI Engine
+  - Output Module
+- Decided to expand the AI Engine at the Component level.
+- Reviewed AI-generated code for correctness.
+- Reviewed the C4 diagrams for consistency with the system.
+- Made and justified the major design decisions.
+- Integrated the final project structure and documentation.
+
+## 5. Human Review and Validation
+
+All AI-assisted material was reviewed before being included in the project.
+
+The review focused on:
+
+- Correctness of game rules
+- Correctness of Minimax logic
+- Consistency between diagrams and implementation
+- Correct representation of system components
+- Clarity of documentation
+- Alignment with the project requirements
+
+## 6. AI Limitations and Responsibility
+
+AI-generated content was treated as assistance rather than as an unquestioned final answer. The student remained responsible for checking, understanding, modifying, and approving the material used in the final project.
+
+The final project decisions and submitted implementation are the responsibility of the student.
+
+## 7. AI Usage Summary
+
+| Area | AI Contribution | Student Responsibility |
+|---|---|---|
+| Project code | Helped generate/refine code | Reviewed and validated code |
+| Minimax | Helped structure algorithm logic | Understood and checked decision-making |
+| C4 diagrams | Helped create diagrams | Defined and reviewed architecture |
+| Documentation | Helped organize and format content | Reviewed final content |
+| Design decisions | Provided development assistance | Made and justified final decisions |
+
+## 8. Declaration
+
+AI tools were used transparently as development and documentation assistants. The student reviewed the AI-assisted outputs and retained responsibility for the final project, architecture, design decisions, and submitted work.
